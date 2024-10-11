@@ -1,2 +1,2 @@
 # bookbot
-boot.dev personal project
+my first project
